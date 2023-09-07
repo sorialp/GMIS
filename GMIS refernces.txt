@@ -1,0 +1,1 @@
+Kumar Y, Morreale P, Sorial P, Delgado J, Li JJ, Martins P. A Testing Framework for AI Linguistic Systems (testFAILS). Electronics. 2023; 12(14):3095. https://doi.org/10.3390/electronics12143095
