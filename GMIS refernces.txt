@@ -1,1 +1,10 @@
-Kumar Y, Morreale P, Sorial P, Delgado J, Li JJ, Martins P. A Testing Framework for AI Linguistic Systems (testFAILS). Electronics. 2023; 12(14):3095. https://doi.org/10.3390/electronics12143095
+[1] Kumar, Y., Morreale P, Sorial P, Delgado J, Li JJ, Martins P. A Testing Framework for AI Linguistic
+Systems (testFAILS). Electronics. 2023; 12(14):3095. https://doi.org/10.3390/electronics12143095.
+
+[2] Y. Kumar, P. Morreale, P. Sorial, J. Delgado, J. J. Li and P. Martins (2023) A Testing Framework for
+AI Linguistic Systems (testFAILS). In proceedings of the 2023 IEEE International Conference on
+Artificial Intelligence Testing (AITest), DOI: 10.1109/AITest58265.2023.00004.
+
+[3] B. Hannon, Y. Kumar, P. Sorial, J. J. Li, and P. Morreale (2023) From Vulnerabilities to
+Improvements: A Deep Dive into Adversarial Testing of AI Models. In proceeding of the 21st
+International Conference on Software Engineering Research & Practice (SERP 2023, presented)
